@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/scholar?hl=ja&as_sdt=0%2C5&q=Higashikuni+y&btnG=
   - icon: github
     icon_pack: fab
     link: https://github.com/yasutomihigashikuni
