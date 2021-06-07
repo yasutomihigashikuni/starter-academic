@@ -1,7 +1,7 @@
 ---
 title: Yasutomi Higashikuni
 role: Assistant Professor of Cardiovascular Medicine
-avatar_filename: tommy.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include homeostatic inflammation, RNA metabolism and
   modification, and synthetic biology.
 interests:
