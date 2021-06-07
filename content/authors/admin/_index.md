@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.co.uk/scholar?hl=ja&as_sdt=0%2C5&q=Higashikuni+y&btnG=
   - icon: github
     icon_pack: fab
-    link: https://github.com/yasutomihigashikuni
+    link: https://github.com/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
