@@ -28,16 +28,13 @@ organizations:
   - name: The University of Tokyo
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MD
+      institution: The University of Tokyo
+      year: 2002
+    - course: PhD in Internal Medicine
+      institution: The University of Tokyo
+      year: 2010
+email: yasutomihigashikuni@g.ecc.u-tokyo.ac.jp
 superuser: true
 highlight_name: false
 ---
