@@ -5,9 +5,9 @@ avatar_filename: tommy.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Synthetic Cardiology
+  - Homeostatic Inflammation
+  - RNA metabolism and modification
 social:
   - icon: envelope
     icon_pack: fas
