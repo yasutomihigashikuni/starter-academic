@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: Meet the Team
-subtitle:
+title: People
+subtitle: Meet the Team
 
 content:
   # Choose which groups/teams of users to display.
