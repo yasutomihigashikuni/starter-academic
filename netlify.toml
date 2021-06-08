@@ -21,4 +21,4 @@
     debug = true
  
 [minify]
- disableJSON = true
+disableJSON = true
