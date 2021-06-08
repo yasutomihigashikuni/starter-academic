@@ -65,6 +65,47 @@ experience:
         * Anti-Oxidant Response in Cardiovascular Disease
         * Renin-Angiotensin System in Cardiovascular Disease
 
+        Clinical Activity:
+       
+        * Percutaneous Coronary Intervention
+
+  - title: Clinical Fellow
+    company: The University of Tokyo
+    company_url: ''
+    company_logo: org-x
+    location: Tokyo
+    date_start: '2010-4-1'
+    date_end: '2010-12-15'
+    description: |2-
+        Higashikuni/Sata Lab:
+        
+        * Homeostatic Inflammation in Cardiovascular Disease (Including Multi-Organ Interaction)
+        * Anti-Oxidant Response in Cardiovascular Disease
+        * Renin-Angiotensin System in Cardiovascular Disease
+        
+        Clinical Activity:
+       
+        * Percutaneous Coronary Intervention
+
+  - title: Graduate Student
+    company: The University of Tokyo
+    company_url: ''
+    company_logo: org-x
+    location: Tokyo
+    date_start: '2006-4-1'
+    date_end: '2010-3-31'
+    description: |2-
+        Sata Lab:
+        
+        * Homeostatic Inflammation in Cardiovascular Disease (Including Multi-Organ Interaction)
+        * Anti-Oxidant Response in Cardiovascular Disease
+        * Renin-Angiotensin System in Cardiovascular Disease
+        
+        Clinical Activity:
+       
+        * Percutaneous Coronary Intervention
+
+
 design:
   columns: '2'
 ---
