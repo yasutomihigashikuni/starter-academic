@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: The University of Tokyo
+    company: Department of Cardiovascular Medicine, The University of Tokyo
     company_url: ''
     company_logo: org-gc
     location: Tokyo
@@ -37,7 +37,7 @@ experience:
         * Homeostatic Inflammation
         
   - title: Visiting Scientist
-    company: Massachusetts Institute of Technology
+    company: Synthetic Biology Group, Massachusetts Institute of Technology
     company_url: ''
     company_logo: org-x
     location: Boston
@@ -52,7 +52,7 @@ experience:
         * Next-Generation Gene Therapy for Heart Failure
 
   - title: Assistant Professor
-    company: The University of Tokyo
+    company: Department of Cardiovascular Medicine, The University of Tokyo
     company_url: ''
     company_logo: org-x
     location: Tokyo
@@ -70,7 +70,7 @@ experience:
         * Percutaneous Coronary Intervention
 
   - title: Clinical Fellow
-    company: The University of Tokyo
+    company: Department of Cardiovascular Medicine, The University of Tokyo
     company_url: ''
     company_logo: org-x
     location: Tokyo
@@ -88,7 +88,7 @@ experience:
         * Percutaneous Coronary Intervention
 
   - title: Graduate Student
-    company: The University of Tokyo
+    company: Department of Cardiovascular Medicine, The University of Tokyo
     company_url: ''
     company_logo: org-x
     location: Tokyo
@@ -105,6 +105,32 @@ experience:
        
         * Percutaneous Coronary Intervention
 
+  - title: Cardiologist
+    company: Mitsui Memorial Hospital
+    company_url: ''
+    company_logo: org-x
+    location: Tokyo
+    date_start: '2003-6-1'
+    date_end: '2006-3-31'
+    description: 
+ 
+  - title: Resident Physician
+    company: The University of Tokyo Hospital
+    company_url: ''
+    company_logo: org-x
+    location: Tokyo
+    date_start: '2002-6-1'
+    date_end: '2003-5-31'
+    description:
+
+  - title: Undergraduate Student
+    company: The University of Tokyo
+    company_url: ''
+    company_logo: org-x
+    location: Tokyo
+    date_start: '1996-4-1'
+    date_end: '2002-3-31'
+    description:
 
 design:
   columns: '2'
