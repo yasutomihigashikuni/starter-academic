@@ -22,9 +22,6 @@ main:
   - name: People
     url: '#people'
     weight: 60
-  - name: Events
-    url: '#_index'
-    weight: 70
   - name: Contact
     url: '#contact'
     weight: 80
