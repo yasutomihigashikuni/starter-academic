@@ -15,7 +15,7 @@ links: []
 image:
   caption: Modified from Ruder WC, et al. Science, 2011;333:1248-1252.
   focal_point: Smart
-  filename: bicomputation_v2.jpg
+  filename: featured.jpg
 url_code: ""
 ---
 
