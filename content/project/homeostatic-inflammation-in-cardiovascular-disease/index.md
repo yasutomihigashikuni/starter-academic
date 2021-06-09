@@ -8,7 +8,8 @@ tags:
   - Inflammation
 external_link: '""'
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Modified from Higashikuni Y, et al. JAHA. 2013. & Oka T, et al. Nature. 2012.
 ---
