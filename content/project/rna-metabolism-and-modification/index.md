@@ -7,7 +7,7 @@ draft: false
 featured: false
 tags:
   - RNA Metabolism and Modification
-external_link: '""'
+links: []
 image:
   filename: featured.jpg
   focal_point: Smart
