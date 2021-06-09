@@ -31,7 +31,7 @@ content:
     tag: Synthetic
   - name: RNA Metabolism and Modification
     tag: RNA
-  - name: Homeostatic Inflammation
+  - name: Inflammation
     tag: Inflammation
   - name: AI
     tag: AI 
