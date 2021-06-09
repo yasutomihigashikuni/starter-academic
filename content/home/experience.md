@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor
     company: Department of Cardiovascular Medicine, The University of Tokyo
-    company_logo: org-gc
+    company_logo: UT_logo
     location: Tokyo
     date_start: '2019-04-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Visiting Scientist
     company: Synthetic Biology Group, Massachusetts Institute of Technology
     company_url: ''
-    company_logo: org-x
+    company_logo: MIT_logo
     location: Boston
     date_start: '2015-10-01'
     date_end: '2019-03-31'
@@ -52,7 +52,7 @@ experience:
 
   - title: Assistant Professor
     company: Department of Cardiovascular Medicine, The University of Tokyo
-    company_logo: org-x
+    company_logo: UT_logo
     location: Tokyo
     date_start: '2010-12-16'
     date_end: '2015-09-30'
@@ -69,7 +69,7 @@ experience:
 
   - title: Clinical Fellow
     company: Department of Cardiovascular Medicine, The University of Tokyo
-    company_logo: org-x
+    company_logo: UT_logo
     location: Tokyo
     date_start: '2010-04-01'
     date_end: '2010-12-15'
@@ -86,7 +86,7 @@ experience:
 
   - title: Graduate Student
     company: Department of Cardiovascular Medicine, The University of Tokyo
-    company_logo: org-x
+    company_logo: UT_logo
     location: Tokyo
     date_start: '2006-04-01'
     date_end: '2010-03-31'
@@ -103,7 +103,7 @@ experience:
 
   - title: Cardiologist
     company: Mitsui Memorial Hospital
-    company_logo: org-x
+    company_logo: 
     location: Tokyo
     date_start: '2003-06-01'
     date_end: '2006-03-31'
@@ -111,7 +111,7 @@ experience:
  
   - title: Resident Physician
     company: The University of Tokyo Hospital
-    company_logo: org-x
+    company_logo: UT_logo
     location: Tokyo
     date_start: '2002-06-01'
     date_end: '2003-05-31'
@@ -119,7 +119,7 @@ experience:
 
   - title: Undergraduate Student
     company: The University of Tokyo
-    company_logo: org-x
+    company_logo: UT_logo
     location: Tokyo
     date_start: '1996-04-01'
     date_end: '2002-03-31'
