@@ -28,12 +28,12 @@ organizations:
   - name: The University of Tokyo
 education:
   courses:
-    - course: M.D.
-      institution: The University of Tokyo
-      year: 2002
     - course: Ph.D. in Internal Medicine
       institution: The University of Tokyo
       year: 2010
+    - course: M.D.
+      institution: The University of Tokyo
+      year: 2002  
 email: yasutomihigashikuni@g.ecc.u-tokyo.ac.jp
 superuser: true
 highlight_name: false
