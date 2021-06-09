@@ -2,6 +2,7 @@
 title: Takumi Obana
 role: Assistant
 avatar_filename: abatar.jpg
+weight: 4
 bio: My research interests include homeostatic inflammation, RNA metabolism and
   modification, and synthetic biology.
 interests:
