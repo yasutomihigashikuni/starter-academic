@@ -28,11 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: Synthetic Cardiology
-    tag: Synthetic Cardiology
+    tag: Synthetic
   - name: RNA Metabolism and Modification
-    tag: RNA Metabolism and Modification in Cardiovascular Disease
+    tag: RNA
   - name: Homeostatic Inflammation
-    tag: Homeostatic Inflammation in Cardiovascular Disease
+    tag: Inflammation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
