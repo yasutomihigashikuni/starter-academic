@@ -36,7 +36,7 @@ education:
       year: 2002  
 email: yutanaka326@gmail.com
 superuser: false
-highlight_name: true
+highlight_name: false
 user_groups:
   - Researchers
 ---
