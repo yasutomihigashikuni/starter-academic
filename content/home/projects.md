@@ -33,6 +33,8 @@ content:
     tag: RNA
   - name: Homeostatic Inflammation
     tag: Inflammation
+  - name: AI
+    tag: AI 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
