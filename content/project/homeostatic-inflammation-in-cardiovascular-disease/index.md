@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - Homeostatic Inflammation
-external_link: '""'
+links: []
 image:
   filename: featured.jpg
   focal_point: Smart
