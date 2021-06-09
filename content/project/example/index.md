@@ -10,7 +10,7 @@ external_link: ""
 url_slides: ""
 title: Synthetic Cardiology
 tags:
-  - Synthetic
+  - Synthetic Cardiology
 links: []
 image:
   caption: Modified from Ruder WC, et al. Science, 2011;333:1248-1252.
