@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor
     company: Department of Cardiovascular Medicine, The University of Tokyo
-    company_url: ''
     company_logo: org-gc
     location: Tokyo
     date_start: '2019-04-01'
@@ -38,7 +37,6 @@ experience:
         
   - title: Visiting Scientist
     company: Synthetic Biology Group, Massachusetts Institute of Technology
-    company_url: ''
     company_logo: org-x
     location: Boston
     date_start: '2015-10-01'
@@ -53,7 +51,6 @@ experience:
 
   - title: Assistant Professor
     company: Department of Cardiovascular Medicine, The University of Tokyo
-    company_url: ''
     company_logo: org-x
     location: Tokyo
     date_start: '2010-12-16'
@@ -71,7 +68,6 @@ experience:
 
   - title: Clinical Fellow
     company: Department of Cardiovascular Medicine, The University of Tokyo
-    company_url: ''
     company_logo: org-x
     location: Tokyo
     date_start: '2010-4-1'
@@ -89,7 +85,6 @@ experience:
 
   - title: Graduate Student
     company: Department of Cardiovascular Medicine, The University of Tokyo
-    company_url: ''
     company_logo: org-x
     location: Tokyo
     date_start: '2006-4-1'
@@ -107,7 +102,6 @@ experience:
 
   - title: Cardiologist
     company: Mitsui Memorial Hospital
-    company_url: ''
     company_logo: org-x
     location: Tokyo
     date_start: '2003-6-1'
@@ -116,7 +110,6 @@ experience:
  
   - title: Resident Physician
     company: The University of Tokyo Hospital
-    company_url: ''
     company_logo: org-x
     location: Tokyo
     date_start: '2002-6-1'
@@ -125,7 +118,6 @@ experience:
 
   - title: Undergraduate Student
     company: The University of Tokyo
-    company_url: ''
     company_logo: org-x
     location: Tokyo
     date_start: '1996-4-1'
