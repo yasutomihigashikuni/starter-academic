@@ -7,6 +7,7 @@ featured: false
 tags:
   - Homeostatic Inflammation
 links: []
+external_link: ""
 image:
   filename: featured.jpg
   focal_point: Smart
