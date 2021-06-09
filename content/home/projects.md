@@ -28,11 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: Synthetic Cardiology
-    tag: Synthetic
+    tag: Synthetic Cardiology
   - name: RNA Metabolism and Modification
-    tag: RNA
+    tag: RNA Metabolism and Modification
   - name: Inflammation
-    tag: Inflammation
+    tag: Homeostatic Inflammation
   - name: AI
     tag: AI 
 
