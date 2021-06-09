@@ -20,6 +20,7 @@ content:
   - Researchers
   - Grad Students
   - Administration
+  - Assistants
   - Visitors
   - Alumni
 design:
