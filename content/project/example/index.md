@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 summary: Creating novel gene and cell therapies that enable automatic reversal
   of aging phenotypes and maintenance of homeostasis by introducing multimodal
