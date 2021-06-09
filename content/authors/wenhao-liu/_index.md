@@ -2,6 +2,7 @@
 title: Wenhao Liu
 role: Visiting Scholar
 avatar_filename: avatar.jpg
+weight: 3
 bio: My research interests include homeostatic inflammation, RNA metabolism and
   modification, and synthetic biology.
 interests:
