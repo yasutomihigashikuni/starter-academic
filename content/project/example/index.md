@@ -6,7 +6,7 @@ summary: Creating novel gene and cell therapies that enable automatic reversal
   sense-and-respond capabilities into living cells.
 url_video: ""
 date: 2021-06-09T09:55:29.722Z
-external_link: '""'
+external_link: ""
 url_slides: ""
 title: Synthetic Cardiology
 tags:
