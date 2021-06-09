@@ -7,7 +7,7 @@ bio: My research interests include homeostatic inflammation, RNA metabolism and
 interests:
   - Synthetic Cardiology
   - Homeostatic Inflammation
-  - RNA metabolism and modification
+  - RNA Metabolism and Modification
 social:
   - icon: envelope
     icon_pack: fas
