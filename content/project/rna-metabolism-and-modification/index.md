@@ -9,7 +9,9 @@ tags:
   - RNA
 external_link: '""'
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Modified from Rocak S, et al. Nat Rev Moll Cell Biol. 2004. & Robinson
+    M, et al. Photochem Photobiol. 2019.
 ---
