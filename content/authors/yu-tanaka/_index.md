@@ -2,6 +2,7 @@
 title: Yu Tanaka
 role: Assistant Professor of Pediatrics
 avatar_filename: avatar.jpg
+weight: 2
 bio: My research interests include homeostatic inflammation, RNA metabolism and
   modification, and synthetic biology.
 interests:
