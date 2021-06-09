@@ -1,33 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags: 
-- Synthetic
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: example
+url_pdf: ""
+summary: Creating novel gene and cell therapies that enable automatic reversal
+  of aging phenotypes and maintenance of homeostasis by introducing multimodal
+  sense-and-respond capabilities into living cells.
+url_video: ""
+date: 2021-06-09T09:55:29.722Z
+external_link: '""'
+url_slides: ""
+title: Synthetic Cardiology
+tags:
+  - Synthetic
+links: []
+image:
+  caption: Modified from Ruder WC, et al. Science, 2011;333:1248-1252.
+  focal_point: Smart
+  filename: bicomputation_v2.jpg
+url_code: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
