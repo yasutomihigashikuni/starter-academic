@@ -5,7 +5,7 @@ summary: Elucidating the mechanisms in which inflammation causes cardiovascular 
 draft: false
 featured: false
 tags:
-  - Inflammation
+  - Homeostatic Inflammation
 external_link: '""'
 image:
   filename: featured.jpg
