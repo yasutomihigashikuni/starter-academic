@@ -37,6 +37,7 @@ experience:
         
   - title: Visiting Scientist
     company: Synthetic Biology Group, Massachusetts Institute of Technology
+    company_url: ''
     company_logo: org-x
     location: Boston
     date_start: '2015-10-01'
@@ -106,7 +107,7 @@ experience:
     location: Tokyo
     date_start: '2003-6-1'
     date_end: '2006-3-31'
-    description: 
+    description: ''
  
   - title: Resident Physician
     company: The University of Tokyo Hospital
@@ -114,7 +115,7 @@ experience:
     location: Tokyo
     date_start: '2002-6-1'
     date_end: '2003-5-31'
-    description:
+    description: ''
 
   - title: Undergraduate Student
     company: The University of Tokyo
@@ -122,7 +123,7 @@ experience:
     location: Tokyo
     date_start: '1996-4-1'
     date_end: '2002-3-31'
-    description:
+    description: ''
 
 design:
   columns: '2'
