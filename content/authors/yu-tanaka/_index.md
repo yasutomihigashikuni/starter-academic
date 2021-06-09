@@ -40,4 +40,4 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
-Dr. Yasutomi Higashikuni is an Assistant Professor of Cardiovascular Medicine at the University of Tokyo. His research interests include homeostatic inflammation, RNA metabolism and modification, and synthetic biology in cardiovascular medicine. He is leading a new research field, "Synthetic Cardiology", which creates novel gene and cell therapies that enable automatic reversal of aging phenotypes and maintenance of homeostasis.
+Dr. Yu Tanaka is an Assistant Professor of Pediatrics at the University of Tokyo. His research interests include.
