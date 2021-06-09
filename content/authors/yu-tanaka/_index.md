@@ -1,6 +1,6 @@
 ---
 title: Yu Tanaka
-authors:
+author:
 - yu-tanaka
 role: Assistant Professor of Pediatrics
 avatar_filename: avatar.jpg
