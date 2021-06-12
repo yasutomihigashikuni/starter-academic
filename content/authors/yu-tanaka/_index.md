@@ -1,5 +1,5 @@
 ---
-title: Yu Tanaka
+title: Yu Tanaka, M.D., Ph.D.
 authors:
 - yu-tanaka
 role: Assistant Professor of Pediatrics
