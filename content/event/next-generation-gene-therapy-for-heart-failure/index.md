@@ -1,6 +1,7 @@
 ---
 title: Next-Generation Gene Therapy for Heart Failure
-abstract: '""'
+abstract: "Our next-generation gene therapy for heart failure enables
+  personalized medicine at cellular level. "
 location: Kyoto, Online
 date: 2020-07-26T23:00:00.000Z
 date_end: 2020-08-02T08:00:00.000Z
