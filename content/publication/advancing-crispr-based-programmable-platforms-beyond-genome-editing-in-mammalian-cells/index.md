@@ -23,6 +23,6 @@ image:
   focal_point: Smart
   preview_only: false
 projects: 
-- Synthetic Cardiology
-- Artificial Intelligence
+- example
+- artificial-intelligence
 ---
