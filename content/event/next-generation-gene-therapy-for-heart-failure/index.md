@@ -13,6 +13,7 @@ draft: false
 featured: false
 authors:
   - admin
+tags: []
 image:
   filename: featured
   focal_point: Smart
