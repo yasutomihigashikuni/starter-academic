@@ -1,5 +1,5 @@
 ---
-title: Wenhao Liu
+title: Wenhao Liu, M.D.
 role: Visiting Scholar
 avatar_filename: avatar.jpg
 weight: 3
