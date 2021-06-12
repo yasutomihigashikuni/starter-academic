@@ -1,5 +1,5 @@
 ---
-title: Yasutomi Higashikuni
+title: Yasutomi Higashikuni, M.D., Ph.D.
 role: Assistant Professor of Cardiovascular Medicine
 avatar_filename: avatar.jpg
 bio: My research interests include homeostatic inflammation, RNA metabolism and
