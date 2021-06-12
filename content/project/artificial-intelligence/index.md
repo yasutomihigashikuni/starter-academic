@@ -5,7 +5,7 @@ summary: Interconnecting "living machines" to digital devices.
 draft: false
 featured: false
 tags:
-  - Artificial Intelligence
+  - AI
 links: []
 external_link: ""
 image:
