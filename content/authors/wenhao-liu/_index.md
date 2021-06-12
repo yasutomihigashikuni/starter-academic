@@ -12,13 +12,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: 'mailto:liuwenhao_0824@outlook.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/scholar?hl=ja&as_sdt=0%2C5&q=Higashikuni+y&btnG=
+    link: https://scholar.google.co.uk/
   - icon: github
     icon_pack: fab
     link: https://github.com/
