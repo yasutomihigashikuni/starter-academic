@@ -1,5 +1,5 @@
 ---
-title: Next-Generation Therapeutic Platforms in Cardiovascular Medicine.
+title: Next-Generation Therapeutic Platforms in Cardiovascular Medicine
 abstract: '""'
 location: Kobe, Online
 date: 2020-06-03T23:00:25.802Z
