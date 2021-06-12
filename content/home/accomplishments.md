@@ -55,7 +55,62 @@ item:
   organization_url: 
   title: Young Investigator Award (2014)
   url: ""
-
+- certificate_url: 
+  date_end: ""
+  date_start: "2013-11-23"
+  description: ""
+  organization: Workshop on Hypertension and Coronary Artery Disease
+  organization_url: 
+  title: Research Award (2013)
+  url: "" 
+- certificate_url: 
+  date_end: ""
+  date_start: "2012-11-30"
+  description: ""
+  organization: Japan Heart Failure Society
+  organization_url: 
+  title: Young Investigator Award (2012)
+  url: "" 
+- certificate_url: 
+  date_end: ""
+  date_start: "2012-11-23"
+  description: ""
+  organization: The Society of Cardiovascular Endocrinology and Metabolism
+  organization_url: 
+  title: Young Investigator Award (2012)
+  url: "" 
+- certificate_url: 
+  date_end: ""
+  date_start: "2012-07-07"
+  description: ""
+  organization: International Academy of Cardiovascular Sciences, Japan Section
+  organization_url: 
+  title: Young Investigator Award (2012)
+  url: "" 
+- certificate_url: 
+  date_end: ""
+  date_start: "2012-03-31"
+  description: ""
+  organization: The University of Tokyo Medical Association
+  organization_url: 
+  title: Medical Award (2012)
+  url: "" 
+- certificate_url: 
+  date_end: ""
+  date_start: "2012-02-19"
+  description: ""
+  organization: Miyazaki Science Camp
+  organization_url: 
+  title: Outstanding Poster Award (2012)
+  url: "" 
+- certificate_url: 
+  date_end: ""
+  date_start: "2011-11-19"
+  description: ""
+  organization: International Society for Heart Research, Japanese Section
+  organization_url: 
+  title: Young Investigator Award (2011)
+  url: "" 
 design:
   columns: '2' 
 ---
