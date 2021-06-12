@@ -1,7 +1,7 @@
 ---
 title: Next-Generation Gene Therapy for Heart Failure
-abstract: "Our next-generation gene therapy for heart failure enables
-  personalized medicine at cellular level. "
+summary: Our next-generation gene therapy for heart failure enables personalized medicine at cellular level.
+
 location: Kyoto, Online
 date: 2020-07-26T23:00:00.000Z
 date_end: 2020-08-02T08:00:00.000Z
@@ -13,9 +13,14 @@ draft: false
 featured: false
 authors:
   - admin
-tags: []
+tags:
+  - Synthetic Cardiology
+  - RNA Metabolism and Modification
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+projects: 
+- example
+- rna-metabolism-and-modification
 ---
