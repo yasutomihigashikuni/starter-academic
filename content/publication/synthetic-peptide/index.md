@@ -3,12 +3,12 @@ title: "Structure-function-guided exploration of the antimicrobial peptide polyb
 publication_types:
   - "2"
 authors:
-  - Marcelo D. T. Torres
+  - Marcelo DT. Torres
   - Cibele N. Pedron
   - admin
   - Robin M. Kramer
   - Marlon H. Cardoso
-  - Karen G. N. Oshiro
+  - Karen GN. Oshiro
   - Octavio L. Franco
   - Pedro I. Silva Junior
   - Fernanda D. Silva
