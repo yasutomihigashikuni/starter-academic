@@ -1,6 +1,6 @@
 ---
 title: Next-Generation Therapeutic Platforms in Cardiovascular Medicine
-summary: The Present and Future of Cardiovascular Medicine
+summary: The Present and the Future of Cardiovascular Medicine
 location: Kobe, Online
 date: 2020-06-03T23:00:25.802Z
 date_end: 2020-06-06T08:00:00.000Z
