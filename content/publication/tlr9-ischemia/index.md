@@ -1,32 +1,24 @@
 ---
-title: "Toll-Like Receptor 9 Plays a Pivotal Role in Angiotensin II-Induced Atherosclerosis"
+title: "Activation of Toll-Like Receptor 9 Impairs Blood Flow Recovery After Hind-Limb Ischemia"
 publication_types:
   - "2"
 authors:
-  - Daiju Fukuda
   - Sachiko Nishimoto
   - Kunduziayi Aini
-  - Atsushi Tanaka
-  - Tsuyoshi Nishiguchi
-  - Joo-Ri Kim-Kaneyama
-  - Xiao-Feng Lei
-  - Kiyoshi Masuda
-  - Takuya Naruto
-  - Kimie Tanaka
+  - Daiju Fukuda
   - admin
+  - Kimie Tanaka
   - Yoichiro Hirata
   - Shunsuke Yagi
   - Kenya Kusunose
   - Hirotsugu Yamada
   - Takeshi Soeki
-  - Issei Komuro
-  - Takashi Akasaka
   - Michio Shimabukuro
   - Masataka Sata
 date: 2019-04-02T20:34:17.125Z
-doi: 10.1161/JAHA.118.010860
-publication:  J Am Heart Assoc. 2019 Apr 2;8(7):e010860
-abstract: Background Toll-like receptor ( TLR ) 9 recognizes bacterial DNA , activating innate immunity, whereas it also provokes inflammation in response to fragmented DNA released from mammalian cells. We investigated whether TLR 9 contributes to the development of vascular inflammation and atherogenesis using apolipoprotein E-deficient ( Apoe -/-) mice. Methods and Results Tlr9-deficient Apoe -/- ( Tlr9 -/- Apoe -/-) mice and Apoe -/- mice on a Western-type diet received subcutaneous angiotensin II infusion (1000 ng/kg per minute) for 28 days. Angiotensin II increased the plasma level of double-stranded DNA, an endogenous ligand of TLR 9, in these mice. Genetic deletion or pharmacologic blockade of TLR 9 in angiotensin II-infused Apoe -/- mice attenuated atherogenesis in the aortic arch ( P<0.05), reduced the accumulation of lipid and macrophages in atherosclerotic plaques, and decreased RNA expression of inflammatory molecules in the aorta with no alteration of metabolic parameters. On the other hand, restoration of TLR 9 in bone marrow in Tlr9 -/- Apoe -/- mice promoted atherogenesis in the aortic arch ( P<0.05). A TLR 9 agonist markedly promoted proinflammatory activation of Apoe -/- macrophages, partially through p38 mitogen-activated protein kinase signaling. In addition, genomic DNA extracted from macrophages promoted inflammatory molecule expression more effectively in Apoe -/- macrophages than in Tlr9 -/- Apoe -/- macrophages. Furthermore, in humans, circulating double-stranded DNA in the coronary artery positively correlated with inflammatory features of coronary plaques determined by optical coherence tomography in patients with acute myocardial infarction ( P<0.05). Conclusions TLR 9 plays a pivotal role in the development of vascular inflammation and atherogenesis through proinflammatory activation of macrophages. TLR 9 may serve as a potential therapeutic target for atherosclerosis. 
+doi: 10.3389/fcvm.2018.00144
+publication: Front Cardiovasc Med. 2018 Oct 16;5:144
+abstract: Background, Peripheral artery disease causes significant functional disability and results in impaired quality of life. Ischemic tissue injury releases various endogenous ligands for Toll-like receptors (TLRs), suggesting the involvement of TLRs in blood flow recovery. However, the role of TLR9, which was originally known as a sensor for bacterial DNA, remains unknown. This study investigated the role of TLR9 in blood flow recovery in the ischemic limb using a mouse hind-limb ischemia model. Methods and Results, Unilateral femoral artery ligation was performed in TLR9-deficient (Tlr9 -/-) mice and wild-type mice. In wild-type mice, femoral artery ligation significantly increased mRNA expression of TLR9 in the ischemic limb (P < 0.001) and plasma levels of cell-free DNA (cfDNA) as determined by single-stranded DNA (ssDNA) (P < 0.05) and double-stranded DNA (dsDNA) (P < 0.01), which are endogenous ligands for TLR9, compared with the sham-operated group. Laser Doppler perfusion imaging demonstrated significantly improved ratio of blood flow in the ischemic to non-ischemic limb in Tlr9 -/- mice compared with wild-type mice at 2 weeks after ligation (P < 0.05). Tlr9 -/- mice showed increased capillary density and reduced macrophage infiltration in ischemic limb. Genetic deletion of TLR9 reduced the expression of TNF-α, and attenuated NF-κB activation in ischemic muscle compared with wild-type mice (P < 0.05, respectively) at 3 days after the surgery. ODN1826, a synthetic agonistic oligonucleotide for TLR9, or plasma obtained from mice with ischemic muscle promoted the expression of TNF-α in wild-type macrophages (P < 0.05), but not in Tlr9 -/- macrophages. ODN1826 also activated NF-κB signaling as determined by the degradation of IκBα in wild-type macrophages (P < 0.05), but not in Tlr9 -/- macrophages. In vitro experiments using human umbilical vein endothelial cells demonstrated that TNF-α, or conditioned medium obtained from wild-type macrophages treated with ODN1826 accelerated cell death as determined by MTS assay (P < 0.05 and P < 0.01, respectively). Conclusion, Our results suggest that ischemic muscle releases cfDNA, which activates TLR9 and enhances inflammation, leading to impairment of blood flow recovery in the ischemic limb. cfDNA-TLR9 signaling may serve as a potential therapeutic target in ischemic limb disease. 
 draft: false
 featured: false
 tags: 
