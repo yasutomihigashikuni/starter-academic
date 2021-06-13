@@ -14,7 +14,7 @@ authors:
   - Fernanda D. Silva
   - Vani X. Oliveira Junior
   - Timothy K. Lu
-  - Cesar de la Fuente-Nunez
+  - Cesar de la Fuente Nunez
 date: 2018-12-01T20:34:17.125Z
 doi: 10.1038/s42003-018-0224-2
 publication: Commun Biol. 2018 Dec 7;1:221
