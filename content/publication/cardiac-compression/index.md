@@ -10,7 +10,7 @@ authors:
 author_notes:
   - ""
   - "Corresponding author"
-date: 2008-08-01T20:34:17.125Z
+date: 2014-06-14T20:34:17.125Z
 doi: 10.1093/eurheartj/eht520
 publication: Eur Heart J. 2014 Jun 14;35(23):1567
 abstract: ""
