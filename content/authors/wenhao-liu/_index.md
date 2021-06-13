@@ -34,7 +34,7 @@ education:
       year: 2021
     - course: M.D.
       institution: Tianjin University of Traditional Chinese Medicine
-      year: 2045
+      year: 2020
 superuser: false
 user_groups:
   - Researchers
