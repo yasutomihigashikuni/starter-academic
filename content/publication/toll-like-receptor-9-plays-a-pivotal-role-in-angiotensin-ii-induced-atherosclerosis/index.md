@@ -36,5 +36,5 @@ image:
   focal_point: Smart
   preview_only: false
 projects: 
-- homeostatic-inflammation-in-cardiovascular-medicine
+- homeostatic-inflammation-in-cardiovascular-disease
 ---
