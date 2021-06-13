@@ -6,12 +6,10 @@ role: Assistant Professor of Pediatrics
 avatar_filename: avatar.jpg
 url_code: ""
 weight: 2
-bio: My research interests include homeostatic inflammation, RNA metabolism and
-  modification, and synthetic biology.
+bio: My research interests include Pediatric Cardiology and Immune System.
 interests:
-  - Synthetic Cardiology
-  - Homeostatic Inflammation
-  - RNA Metabolism and Modification
+  - Pediatric Cardiology
+  - Immune System
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,12 +30,12 @@ organizations:
   - name: The University of Tokyo
 education:
   courses:
-    - course: Ph.D. in Internal Medicine
+    - course: Ph.D. in Pediatrics
       institution: The University of Tokyo
-      year: 2010
+      year: 2020
     - course: M.D.
       institution: The University of Tokyo
-      year: 2002  
+      year: 2008  
 email: yutanaka326@gmail.com
 superuser: false
 highlight_name: false
@@ -45,4 +43,4 @@ user_groups:
   - Researchers
 ---
 
-Dr. Yu Tanaka is an Assistant Professor of Pediatrics at the University of Tokyo. His research interests include.
+Dr. Yu Tanaka is an Assistant Professor of Pediatrics at the University of Tokyo. His research interests include congenital heart disease and interaction between immune system and pediatric heart diseases, especially cardiomyopathy and long-term complications of Fontan circulation.
