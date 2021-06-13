@@ -1,5 +1,5 @@
 ---
-title: "Structure-function-guided exploration of the antimicrobial peptide polybia-CP identifies activity determinants and generates synthetic therapeutic candidates "
+title: "Structure-function-guided exploration of the antimicrobial peptide polybia-CP identifies activity determinants and generates synthetic therapeutic candidates"
 publication_types:
   - "2"
 authors:
