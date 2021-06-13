@@ -15,7 +15,7 @@ author_notes:
 date: 2014-06-14T20:34:17.125Z
 doi: 10.1093/eurheartj/eht520
 publication: Eur Heart J. 2014 Jun 14;35(23):1567
-abstract: ""
+abstract: Cardiac compression by massive mediastinal haematoma due to bleeding from the ectopic bronchial artery
 featured: false
 tags: ""
 image:
