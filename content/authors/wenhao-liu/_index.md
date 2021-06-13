@@ -29,12 +29,12 @@ organizations:
   - name: The University of Tokyo
 education:
   courses:
-    - course: Ph.D. in Internal Medicine
+    - course: Foreign Research Student
       institution: The University of Tokyo
-      year: 2010
+      year: 2021
     - course: M.D.
-      institution: The University of Tokyo
-      year: 2002
+      institution: Tianjin University of Traditional Chinese Medicine
+      year: 2045
 superuser: false
 user_groups:
   - Researchers
