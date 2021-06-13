@@ -1,18 +1,17 @@
 ---
 title: Wenhao Liu, M.D.
-role: Visiting Scholar
+role: Foreign Research Student
 avatar_filename: avatar.jpg
-weight: 3
-bio: My research interests include homeostatic inflammation, RNA metabolism and
-  modification, and synthetic biology.
+bio: My research interests include inflammation, RNA metabolism, synthetic
+  biology and heart failure with preserved ejection fraction.
 interests:
-  - Synthetic Cardiology
-  - Homeostatic Inflammation
-  - RNA Metabolism and Modification
+  - inflammation
+  - RNA metabolism
+  - synthetic biology and heart failure with preserved ejection fraction
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:liuwenhao_0824@outlook.com'
+    link: mailto:liuwenhao_0824@outlook.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
@@ -35,10 +34,11 @@ education:
     - course: M.D.
       institution: The University of Tokyo
       year: 2002
-email: liuwenhao_0824@outlook.com
 superuser: false
-highlight_name: false
 user_groups:
   - Researchers
+highlight_name: false
+weight: 3
+email: liuwenhao_0824@outlook.com
 ---
-Dr. Wenhao Liu is a visiting scholar from. His research interests include.
+Wenhao Liu graduated from Tianjin University of Traditional Chinese Medicine and got through his residency program in the First Teaching Hospital of Tianjin University of Traditional Chinese Medicine. In 2020, he joined Higashikuni Lab at The University of Tokyo. He is learning how to finish experiments well and quickly. His research interests include inflammation, RNA metabolism, synthetic biology and heart failure with preserved ejection fraction
