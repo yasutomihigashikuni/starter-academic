@@ -28,5 +28,5 @@ image:
   focal_point: Smart
   preview_only: false
 projects: 
-- example
+  - example
 ---
