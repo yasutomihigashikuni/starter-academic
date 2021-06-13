@@ -5,9 +5,10 @@ avatar_filename: picture1.jpg
 bio: My research interests include inflammation, RNA metabolism, synthetic
   biology and heart failure with preserved ejection fraction.
 interests:
-  - inflammation
-  - RNA metabolism
-  - synthetic biology and heart failure with preserved ejection fraction
+  - Inflammation
+  - RNA Metabolism
+  - Synthetic Biology
+  - Heart Failure with preserved Ejection Fraction
 social:
   - icon: envelope
     icon_pack: fas
