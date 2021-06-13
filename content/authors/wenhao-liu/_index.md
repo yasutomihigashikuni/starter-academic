@@ -42,4 +42,4 @@ highlight_name: false
 weight: 3
 email: liuwenhao_0824@outlook.com
 ---
-Wenhao Liu graduated from Tianjin University of Traditional Chinese Medicine and got through his residency program in the First Teaching Hospital of Tianjin University of Traditional Chinese Medicine. In 2020, he joined Higashikuni Lab at The University of Tokyo. He is learning how to finish experiments well and quickly. His research interests include inflammation, RNA metabolism, synthetic biology and heart failure with preserved ejection fraction
+Dr. Wenhao Liu graduated from Tianjin University of Traditional Chinese Medicine and got through his residency program in the First Teaching Hospital of Tianjin University of Traditional Chinese Medicine. In 2020, he joined Higashikuni Lab at The University of Tokyo. His research interests include inflammation, RNA metabolism, synthetic biology and heart failure with preserved ejection fraction.
