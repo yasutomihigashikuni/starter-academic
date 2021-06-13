@@ -1,7 +1,7 @@
 ---
 title: Wenhao Liu, M.D.
 role: Foreign Research Student
-avatar_filename: avatar.jpg
+avatar_filename: picture1.jpg
 bio: My research interests include inflammation, RNA metabolism, synthetic
   biology and heart failure with preserved ejection fraction.
 interests:
