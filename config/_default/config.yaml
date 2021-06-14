@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Higashikuni Lab # Website name
-baseurl: 'https://higashikuni-lab3.netlify.app/' # Website URL
+baseurl: 'https://www.higashikuni-lab.org/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
