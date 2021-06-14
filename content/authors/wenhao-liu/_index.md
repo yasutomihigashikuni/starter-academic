@@ -8,11 +8,11 @@ interests:
   - Inflammation
   - RNA Metabolism
   - Synthetic Biology
-  - Heart Failure with preserved Ejection Fraction
+  - Phase Separation
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:liuwenhao_0824@outlook.com
+    link: mailto:wenhao-liu@g.ecc.u-tokyo.ac.jp
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
@@ -40,6 +40,6 @@ user_groups:
   - Researchers
 highlight_name: false
 weight: 3
-email: liuwenhao_0824@outlook.com
+email: wenhao-liu@g.ecc.u-tokyo.ac.jp
 ---
-Dr. Wenhao Liu graduated from Tianjin University of Traditional Chinese Medicine and got through his residency program in the First Teaching Hospital of Tianjin University of Traditional Chinese Medicine. In 2020, he joined Higashikuni Lab at The University of Tokyo. His research interests include inflammation, RNA metabolism, synthetic biology and heart failure with preserved ejection fraction.
+Dr. Wenhao Liu graduated from Tianjin University of Traditional Chinese Medicine and got through his residency program in the First Teaching Hospital of Tianjin University of Traditional Chinese Medicine. In 2020, he joined Higashikuni Lab at The University of Tokyo. His research interests include inflammation, RNA metabolism, synthetic biology and phase separation.
