@@ -29,6 +29,9 @@ organizations:
   - name: The University of Tokyo
 education:
   courses:
+    - course: Graduate Student
+      institution: The University of Tokyo
+      year: 2022
     - course: Foreign Research Student
       institution: The University of Tokyo
       year: 2021
