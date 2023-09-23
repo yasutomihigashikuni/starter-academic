@@ -15,7 +15,7 @@ doi: 10.1038/s41440-022-01150-5
 publication:   Hypertens Res. 2023 Mar;46(3):797-800
 abstract: not available.
 draft: false
-featured: true
+featured: false
 tags:
   - Homeostatic Inflammation
 image:
