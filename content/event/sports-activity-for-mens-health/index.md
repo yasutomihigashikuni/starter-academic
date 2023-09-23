@@ -1,7 +1,7 @@
 ---
 title: Sports Activity for Mens' Health in Cardiovascular Medicine
 summary: We will discuss how sports activity can contribute to men's health in cardiovascular medicine. 
-location: Tokyo, Online
+location: Tokyo
 date: 2023-09-10T09:00:00.000Z
 date_end: 2023-09-10T10:30:00.000Z
 all_day: false
