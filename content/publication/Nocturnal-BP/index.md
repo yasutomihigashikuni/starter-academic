@@ -11,7 +11,7 @@ author_notes:
 -
 - 
 date: 2024-03-01T20:34:17.125Z
-doi: 10.1038/s41440-023-01385-w
+doi: 10.1038/s41440-023-01562-x 
 publication:   Hypertens Res. 2024 Mar;47:819-822
 abstract: not available.
 draft: false
