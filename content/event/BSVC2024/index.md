@@ -1,5 +1,5 @@
 ---
-title: Neural Control of Cardiac Inflammation and Remodeling
+title: BCVS2024 Neural Control of Cardiac Inflammation and Remodeling
 summary: We will discuss heart-brain interaction in cardiac inflammation and remodeling. 
 location: Chicago
 date: 2024-07-23T15:15:00.000Z
