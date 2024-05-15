@@ -5,7 +5,7 @@ location: Chicago
 date: 2024-07-23T15:15:00.000Z
 date_end: 2024-07-23T16:30:00.000Z
 all_day: false
-event: Scientific Meetings of the Japanese Society of Men's Health
+event: BCVS2024
 event_url: '""'
 publishDate: 2024-05-10T21:21:01.005Z
 draft: false
