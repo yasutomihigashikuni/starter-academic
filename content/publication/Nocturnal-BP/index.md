@@ -1,16 +1,18 @@
 ---
-title: "Self-DNA sensing in cigarette smoke-induced vascular inflammation: the role of mitochondrial DNA release in vascular endothelial cells"
+title: "Nocturnal blood pressure and left ventricular hypertrophy in patients with diabetes mellitus"
 publication_types:
   - "2"
 authors:
-  - Wenhao Liu
   - admin
+  - Wenhao Liu
+  - Masataka Sata
 author_notes:
-- 
 - "Corresponding author"
+-
+- 
 date: 2024-03-01T20:34:17.125Z
 doi: 10.1038/s41440-023-01385-w
-publication:   Hypertens Res. 2024 Mar;47:799-802
+publication:   Hypertens Res. 2024 Mar;47:819-822
 abstract: not available.
 draft: false
 featured: false
