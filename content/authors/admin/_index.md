@@ -8,6 +8,7 @@ interests:
   - Synthetic Cardiology
   - Homeostatic Inflammation
   - RNA Metabolism and Modification
+  - Aging
 social:
   - icon: envelope
     icon_pack: fas
