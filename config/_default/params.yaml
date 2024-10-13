@@ -20,19 +20,32 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: yasutomihigashikuni@g.ecc.u-tokyo.ac.jp
-phone: +81-3-3815-5411 (Ext. 30218)
+email: higashikuni.yasutomi@jichi.ac.jp or yasutomihigashikuni@g.ecc.u-tokyo.ac.jp
+phone: +81-285-58-7341 (Ext. 3101)
 address:
-  street: 7-3-1 Hongo, Clinical Research Building A, Room-518
-  city: Bunkyo-ku
-  region: Tokyo
-  postcode: 113-8655
+  street: 3311-1 Yakushiji, Education & Research Center
+  city: Shimotsuke-shi
+  region: Tochigi
+  postcode: 329-0498
   country: Japan
   country_code: JP
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter CRC-A Building and take the stairs or the elevator to Office 518 on Floor 5
+directions: Enter Education & Research Center and take the stairs or the elevator to Division of Cardiovascular and Genetic Research at Center for Molecular Medicine on Floor 4
+email: higashikuni.yasutomi@jichi.ac.jp or yasutomihigashikuni@g.ecc.u-tokyo.ac.jp
+phone: +81-285-58-7341 (Ext. 3101)
+address:
+  street: 3311-1 Yakushiji, Education & Research Center
+  city: Shimotsuke-shi
+  region: Tochigi
+  postcode: 329-0498
+  country: Japan
+  country_code: JP
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
+directions: Enter Education & Research Center and take the stairs or the elevator to Division of Cardiovascular and Genetic Research at Center for Molecular Medicine on Floor 4
 
 
 # Site header
