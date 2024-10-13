@@ -35,6 +35,8 @@ content:
     tag: Homeostatic Inflammation
   - name: AI
     tag: AI 
+  - name: Aging
+    tag: Aging
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
