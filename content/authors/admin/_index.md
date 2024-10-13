@@ -41,4 +41,4 @@ highlight_name: false
 user_groups:
 - Principal Investigator
 ---
-Dr. Yasutomi Higashikuni is an Assistant Professor of Cardiovascular and Genetic Research at Jichi Medical University. His research interests include homeostatic inflammation, RNA metabolism and modification, and synthetic biology in cardiovascular medicine. He is leading a new research field, "Synthetic Cardiology", which creates novel gene and cell therapies that enable automatic reversal of aging phenotypes and maintenance of homeostasis. 
+Dr. Yasutomi Higashikuni is an Assistant Professor of Cardiovascular and Genetic Research at Jichi Medical University. His research interests include homeostatic inflammation, RNA metabolism and modification, aging, and synthetic biology in cardiovascular medicine. He is leading a new research field, "Synthetic Cardiology", which creates novel gene and cell therapies that enable automatic reversal of aging phenotypes and maintenance of homeostasis. 
