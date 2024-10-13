@@ -12,7 +12,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: Modified from Higashikuni Y, et al. JAHA. 2013. & Oka T, et al. Nature. 2012.
+  caption: Higashikuni Y, et al. Circulation 2023; Higashikuni Y, et al. JAHA 2013.
 weight: 3
 ---
 
