@@ -34,7 +34,7 @@ education:
     - course: M.D.
       institution: The University of Tokyo
       year: 2002  
-email: yasutomihigashikuni@g.ecc.u-tokyo.ac.jp, higashikuni.yasutomi@jichi.ac.jp
+email: higashikuni.yasutomi@jichi.ac.jp
 superuser: true
 highlight_name: false
 user_groups:
