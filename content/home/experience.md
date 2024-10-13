@@ -23,11 +23,38 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
+    company: Center for Molecular Medicine & Department of Cardiovascular Medicine, Jichi Medical University
+    company_logo: JMU_logo
+    location: Shimotsuke-shi,Tochigi
+    date_start: '2024-06-01'
+    date_end: ''
+    description: |2-
+        Research interests include, but not limited to:
+        
+        * Synthetic Cardiology
+        * RNA metabolism and modification
+        * Homeostatic Inflammation
+	* Aging
+
+  - title: Visiting Researcher
+    company: Department of Cardiovascular Medicine, The University of Tokyo
+    company_logo: UT_logo
+    location: Tokyo
+    date_start: '2024-06-01'
+    date_end: ''
+    description: |2-
+        Research interests include, but not limited to:
+        
+        * Synthetic Cardiology
+        * RNA metabolism and modification
+        * Homeostatic Inflammation
+
+  - title: Assistant Professor
     company: Department of Cardiovascular Medicine, The University of Tokyo
     company_logo: UT_logo
     location: Tokyo
     date_start: '2019-04-01'
-    date_end: ''
+    date_end: '2024-05-31'
     description: |2-
         Research interests include, but not limited to:
         
