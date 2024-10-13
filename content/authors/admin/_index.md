@@ -1,5 +1,5 @@
 ---
-title: Yasutomi Higashikuni, M.D., Ph.D.
+title: Yasutomi Higashikuni, M.D., Ph.D., FESC
 role: Assistant Professor of Cardiovascular and Genetic Research
 avatar_filename: avatar.jpg
 bio: My research interests include homeostatic inflammation, RNA metabolism and
