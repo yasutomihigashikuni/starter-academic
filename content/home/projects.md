@@ -33,10 +33,11 @@ content:
     tag: RNA Metabolism and Modification
   - name: Inflammation
     tag: Homeostatic Inflammation
-  - name: AI
-    tag: AI 
   - name: Aging
     tag: Aging
+  - name: AI
+    tag: AI 
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
