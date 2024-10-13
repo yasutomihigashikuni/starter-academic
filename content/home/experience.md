@@ -34,7 +34,7 @@ experience:
         * Synthetic Cardiology
         * RNA metabolism and modification
         * Homeostatic Inflammation
-	* Aging
+        * Aging
 
   - title: Visiting Researcher
     company: Department of Cardiovascular Medicine, The University of Tokyo
