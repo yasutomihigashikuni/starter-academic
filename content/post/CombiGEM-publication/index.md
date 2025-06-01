@@ -1,9 +1,9 @@
 ---
 title: Just published in JACC: CardioOncology!!
-subtitle: Mitigation of Doxorubicin Cardiotoxicity With Synergistic miRNA Combinations Identified Using Combinatorial Genetics en masse (CombiGEM) 
+subtitle: Mitigation of Doxorubicin Cardiotoxicity With Synergistic miRNA Combinations Identified Using Combinatorial Genetics en masse
 
 # Summary for listings and search engines
-summary: Mitigation of Doxorubicin Cardiotoxicity With Synergistic miRNA Combinations Identified Using Combinatorial Genetics en masse (CombiGEM)
+summary: Mitigation of Doxorubicin Cardiotoxicity With Synergistic miRNA Combinations Identified Using Combinatorial Genetics en masse
 
 # Link this post with a project
 projects: 
