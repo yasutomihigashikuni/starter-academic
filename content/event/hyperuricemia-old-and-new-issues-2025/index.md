@@ -1,7 +1,7 @@
 ---
 title: Hyperuricemia, the Old and New Issue in Cardiovascular Medicine
 summary: Our basic research findings and clinical experience provide new insight into therapeutic strategy for hyperuricemia in patients with cardiovascular disease.
-location: Tokyo
+location: Utsunomiya
 date: 2025-03-12T19:00:00.000Z
 date_end: 2025-03-12T20:30:00.000Z
 all_day: false
