@@ -34,7 +34,7 @@ experience:
         * Synthetic Cardiology
         * RNA metabolism and modification
         * Homeostatic Inflammation
-	* DNA sensing
+        * DNA sensing
         * Aging
 
   - title: Visiting Researcher
@@ -49,7 +49,7 @@ experience:
         * Synthetic Cardiology
         * RNA metabolism and modification
         * Homeostatic Inflammation
-	* DNA sensing
+        * DNA sensing
         * Aging
 
   - title: Assistant Professor
