@@ -22,12 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Associate Professor
+    company: Department of Cardiovascular Medicine, Osaka Metropolitan University
+    company_logo: OMU_logo
+    location: Osaka
+    date_start: '2026-04-01'
+    date_end: ''
+    description: |2-
+        Research interests include, but not limited to:
+        
+        * Synthetic Cardiology
+        * RNA metabolism and modification
+        * Homeostatic Inflammation
+	* DNA sensing
+        * Aging
+
+  - title: Visiting Researcher
+    company: Center for Molecular Medicine & Department of Cardiovascular Medicine, Jichi Medical University
+    company_logo: JMU_logo
+    location: Shimotsuke-shi,Tochigi
+    date_start: '2026-04-01'
+    date_end: ''
+    description: |2-
+        Research interests include, but not limited to:
+        
+        * Synthetic Cardiology
+        * RNA metabolism and modification
+        * Homeostatic Inflammation
+	* DNA sensing
+        * Aging
+
   - title: Assistant Professor
     company: Center for Molecular Medicine & Department of Cardiovascular Medicine, Jichi Medical University
     company_logo: JMU_logo
     location: Shimotsuke-shi,Tochigi
     date_start: '2024-06-01'
-    date_end: ''
+    date_end: '2026-03-31'
     description: |2-
         Research interests include, but not limited to:
         
