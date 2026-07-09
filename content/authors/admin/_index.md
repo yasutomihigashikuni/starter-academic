@@ -1,6 +1,6 @@
 ---
 title: Yasutomi Higashikuni, M.D., Ph.D., FESC
-role: Assistant Professor of Cardiovascular and Genetic Research
+role: Associate Professor of Cardiovascular Medicine
 avatar_filename: avatar.jpg
 bio: My research interests include homeostatic inflammation, RNA metabolism and
   modification, and synthetic biology.
@@ -26,7 +26,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Jichi Medical University
+  - name: Osaka Metropolitan University
 education:
   courses:
     - course: Ph.D. in Internal Medicine
@@ -35,10 +35,10 @@ education:
     - course: M.D.
       institution: The University of Tokyo
       year: 2002  
-email: higashikuni.yasutomi@jichi.ac.jp
+email: yasutomi.higashikuni@omu.ac.jp
 superuser: true
 highlight_name: false
 user_groups:
 - Principal Investigator
 ---
-Dr. Yasutomi Higashikuni is an Assistant Professor of Cardiovascular and Genetic Research at Jichi Medical University. His research interests include homeostatic inflammation, RNA metabolism and modification, aging, and synthetic biology in cardiovascular medicine. He is leading a new research field, "Synthetic Cardiology", which creates novel gene and cell therapies that enable automatic reversal of aging phenotypes and maintenance of homeostasis. 
+Dr. Yasutomi Higashikuni is an Associate Professor of Cardiovascular Medicine at Osaka Metropolitan University. His research interests include homeostatic inflammation, RNA metabolism and modification, aging, and synthetic biology in cardiovascular medicine. He is leading a new research field, "Synthetic Cardiology", which creates novel gene and cell therapies that enable automatic reversal of aging phenotypes and maintenance of homeostasis. 
